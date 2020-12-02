@@ -1,0 +1,5 @@
+Contains processed serotonin data
+
+RnE/C_full_table_weighted is a dataframe with three columns 'Position' 'Quadrumer' and 'Weighted count' for each round.
+
+RnE/C_frequency is a dataframe with weighted frequency only, group by quadrumer and aggregate using summation. Two columns: 'Quadrumer' and "Weighted frequency" 
