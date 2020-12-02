@@ -1,0 +1,15 @@
+This folder contains all the codes used for data analysis.
+
+Data processing:
+
+Serotonin Data analysis:
+
+Oxytocin Data analysis:
+
+Serotonin scoring:
+
+Serotonin scoring widgets:
+
+Serotonin scoring final - OD: implementing the PyOD outlier detection algorithms to calculate the pearson coefficient.
+
+Iteration for parameters:
