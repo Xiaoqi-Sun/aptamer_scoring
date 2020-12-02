@@ -1,0 +1,4 @@
+RiE where i in [1,6] refers to Round i experimental 
+RiC where i in [1,6] refers to Round i control 
+
+Each file contains the most frequent 1000 apatamer sequences in the SELEC method
