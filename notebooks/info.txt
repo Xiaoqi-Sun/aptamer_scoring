@@ -1,6 +1,6 @@
 This folder contains all the codes used for data analysis.
 
-Data processing:
+Data processing: Raw data are processed to full table (quadrumer, position, frequency) and frequency table(quadrumer, frequency)
 
 Serotonin Data analysis:
 
