@@ -2,14 +2,12 @@ This folder contains all the codes used for data analysis.
 
 Data processing: Raw data are processed to full table (quadrumer, position, frequency) and frequency table(quadrumer, frequency)
 
-Serotonin Data analysis:
+Serotonin Data analysis: Inspect position and frequency patterns and enrichment through each rounds.
 
-Oxytocin Data analysis:
+Oxytocin Data analysis: Same procedure but using Oxytocin data.
 
-Serotonin scoring:
+Serotonin scoring: Old and incomplete score definition. Is replaced by 'Serotonin scoring final - OD', which implements both Outlier detection and widgets.
 
-Serotonin scoring widgets:
+Serotonin scoring final - OD: implementing the PyOD outlier detection algorithms to calculate the pearson coefficient. MOST UPDATED VERSION.
 
-Serotonin scoring final - OD: implementing the PyOD outlier detection algorithms to calculate the pearson coefficient.
-
-Iteration for parameters:
+Iteration for parameters: Iterate over 1 to 10 for each four parameter and analyze the results.
