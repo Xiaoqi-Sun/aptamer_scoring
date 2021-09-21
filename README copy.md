@@ -1,3 +1,0 @@
-# aptamer_scoring
-
-Project
